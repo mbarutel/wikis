@@ -18,7 +18,7 @@ This guide is for someone who is starting out their journey in learning laravel 
   - Connect to the database
     - `mariadb -u root -p`
   - Alter the password
-    - `ALTER USER ‘root’@‘host’ IDENTIFIED BY ‘your-secret-password’;`
+    - `ALTER USER 'root'@'localhost' IDENTIFIED BY 'your-super-secret-password';`
 - Run `mariadb` in the backgroud
   - For Arch
     - `sudo systemd start mariadb` -> something along those lines.
