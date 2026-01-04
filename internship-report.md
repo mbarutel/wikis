@@ -60,3 +60,10 @@ The technology used on SMS is dotnet with C# for the backend and React for the f
 The company follows a water fall style of workflow due to the uncertain nature of the industry. When business is wanting to implement a new feature or update an old logic, it is most common that not all the necessary information is available. The buiseness is also lacking a proper Business analyist, thus most of the time, the tickets that are being mad is incomplete or vague. It makes the work of a developer more challenging, however, I have found that my education in Hive have tought me a great lesson in being resourceful and going out there to get the missing information for myself.
 
 # Work Experience
+
+
+# Summary
+
+SteelX operates in the shed building industry as an essential intermediary between buyers and steel suppliers. The company adds value by assisting with design, component ordering, and most crucially, engineering. These services reduce both the time and cost involved in purchasing a shed.
+
+SteelX's internal system, SMS (Sheds Management System or Sell More Sheds), supports the end-to-end shed sales and design process. SMS allows users to design sheds, generate quotes and documents, and perform engineering calculations. The engineering feature is the system’s core strength. It automates complex calculations that would otherwise require a team of engineers. This automation greatly boosts efficiency—enabling a single engineer to validate work that would typically take a team. As a result, SMS allows SteelX to scale its operations without proportionally increasing engineering staff.
